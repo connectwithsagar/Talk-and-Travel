@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TalkAndTravel</string>
+
+    <!-- res/values/strings.xml -->
+    <string name="google_maps_key">AIzaSyBgABxfYu6poA5qFFTXAQ6u4kKJITJozqY</string>
+    <!-- res/values/strings.xml -->
+    <string name="you_are_here">You are here</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_filter">Filter</string>
+    <string name="calendar_icon">Calendar icon</string>
+    <string name="from_icon">From station icon</string>
+    <string name="to_icon">To station icon</string>
+    <string name="bus_logo">Bus operator logo</string>
+    <string name="show_map">Show map</string>
+    <string name="direction_api">e6d9a760-3be5-42b4-bfa8-fb19997f80b4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

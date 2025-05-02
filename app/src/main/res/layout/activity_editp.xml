@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:padding="16dp">
+
+    <!--  Edit Name Field  -->
+    <EditText android:id="@+id/etName"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:hint="Enter Name"
+        android:background="@drawable/edit_text_passport"
+        android:minHeight="48dp"
+        android:textSize="18sp"/>
+    <!--  Edit Email Field  -->
+    <EditText android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/edit_text_passport"
+        android:hint="Enter Email"
+        android:minHeight="48dp"
+        android:textSize="18sp"/>
+    <!--  Edit Phone Field  -->
+    <EditText android:id="@+id/etPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/edit_text_passport"
+        android:hint="Enter Phone"
+        android:minHeight="48dp"
+        android:textSize="18sp"/>
+    <!--  Edit Address Field  -->
+    <EditText android:id="@+id/etAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    android:background="@drawable/edit_text_passport"
+        android:layout_marginBottom="16dp"
+        android:hint="Enter Address"
+        android:minHeight="48dp"
+        android:textSize="18sp"/>
+    <!--  Save Changes Button  -->
+    <Button android:id="@+id/btnSaveChanges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:backgroundTint="#006644"
+        android:text="Save Changes"/>
+</LinearLayout>

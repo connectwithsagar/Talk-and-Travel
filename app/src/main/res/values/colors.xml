@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryGreen">#008A5E</color>  <!-- Your main brand color -->
+    <color name="primaryVariant">#00714D</color> <!-- A little darker for variant -->
+    <color name="onPrimary">#FFFFFF</color> <!-- Text color on top of primary -->
+    <color name="secondaryColor">#00B67A</color>
+</resources>

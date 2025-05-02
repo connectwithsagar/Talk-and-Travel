@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329533295308",
+    "project_id": "talkandtravel-991fa",
+    "storage_bucket": "talkandtravel-991fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329533295308:android:194a5221c1bdf06dcc9069",
+        "android_client_info": {
+          "package_name": "com.example.talkandtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329533295308-goo7pf190dma49ki87smb6biqi4roj1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxCF9pi16gJ5m4gQxX-hmH9KIMSU0slY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329533295308-goo7pf190dma49ki87smb6biqi4roj1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

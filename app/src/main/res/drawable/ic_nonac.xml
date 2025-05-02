@@ -1,0 +1,8 @@
+<!-- res/drawable/ic_non_ac.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:fillColor="?attr/colorOnSurface"
+        android:pathData="M6.76,4.84l-1.8-1.79l-1.42,1.41l1.79,1.8l1.43-1.42zM1,11h3v2H1v-2zM4.66,17.35l-1.41-1.41l-1.79,1.8l1.41,1.41l1.79-1.8zM11,21h2v-3h-2v3zM17.24,19.75l1.8,1.79l1.42-1.41l-1.79-1.8l-1.43,1.42zM23,11h-3v2h3v-2zM18.34,4.65l-1.41,1.41l1.8,1.79l1.41-1.41l-1.8-1.79zM13,1h-2v3h2V1zM12,7a6,6 0 1,1 0,12a6,6 0 0,1 0-12z"/>
+</vector>
